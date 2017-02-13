@@ -1,7 +1,7 @@
 BasicInfo:
   Title                   : $(APP_TITLE)
   ProductCode             : $(APP_PRODUCT_CODE)
-  Logo                    : Nintendo # Nintendo / Licensed / Distributed / iQue / iQueForSystem
+  Logo                    : homebrew # Homebrew biatch
 
 #RomFs:
   # Specifies the root path of the read only file system to include in the ROM.
