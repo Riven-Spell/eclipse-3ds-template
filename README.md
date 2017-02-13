@@ -10,7 +10,9 @@ This template is basically a fork of [TricksterGuy's 3ds-template](https://githu
 
 Open eclipse and import a project into the workspace. Select the root of the folder (or select the ZIP of this repository). You must have devkitPro installed to /opt/devkitPro and thus devkitARM installed to /opt/devkitPro/devkitARM.
 
-As a result, all build targets and includes should be added. If you'd like auto-corrections on libraries other than ctrulib
+Atop this, you also need buildtools.
+
+As a result, all build targets and includes should be added. If you'd like auto-corrections on libraries other than ctrulib.
 
 ##To set up for elsewhere (or windows.)
 
